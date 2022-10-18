@@ -1,10 +1,10 @@
 
-<h1 align="center"><b>❤️ 𝗤𝗨𝗘𝗘𝗡 ❤️</b></h1>
+<h1 align="center"><b>❤️ ֆǟʀӄǟʀ ❤️</b></h1>
 
 <h4 align="center">Queen A Powerful, Smart And Simple Group Manager <br> ... Written with AioGram , Pyrogram and Telethon...</h4>
 <p align='center'>
   <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square&logo=python&color=blue" /> </a>
-  <a href="https://github.com/Itz-Sangram/ManageRobot/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
+  <a href="https://github.com/nirbhay4x/ManageRobot/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
 </p>
 
 <p align="center"><a href="https://t.me/OpSangram"><img src="https://telegra.ph/file/7ae68204eacb4fb716e21.jpg" width="400"></a></p>
